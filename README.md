@@ -175,7 +175,7 @@ This module will introduce how to generate Bayesian network in the FringeBN algo
 ```
 
 ## Confusion matrix
-This module will guide you to obtain a confusion matrix based on Bayesian networks to understand indicators such as network accuracy. First you need to download the file:Cmatrix.zip. See the Download page.
+This module will guide you to obtain a confusion matrix based on Bayesian networks to understand indicators such as network accuracy. First you need to download the file:Cmatrix.zip. See the Download folder.
 ### 1. Compile code
 
 ```
