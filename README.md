@@ -50,7 +50,7 @@ This project needs to be run on an Ubuntu system. The following configuration as
 
 ```
 ▼ bazel-0.4.5
-● To install bazel, you can refer to (https://docs.bazel.build/versions/master/install-ubuntu.html#install-with-installer-ubuntu). You need to download bazel-0.4.5-installer-linux-x86_.sh(On the Download folder). After downloading bazel-0.4.5-installer-linux-x86_.sh and putting it into the package, please enter the following commands:
+● To install bazel, you can refer to (https://docs.bazel.build/versions/master/install-ubuntu.html#install-with-installer-ubuntu). You need to download bazel-0.4.5-installer-linux-x86_.sh. After downloading bazel-0.4.5-installer-linux-x86_.sh and putting it into the package, please enter the following commands:
 	apt-get install pkg-config zip g++ zlib1g-dev unzip python
 	add-apt-repository ppa:openjdk-r/ppa
 	apt-get update
